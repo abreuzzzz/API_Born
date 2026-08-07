@@ -18,7 +18,7 @@ sheets_service = build("sheets", "v4", credentials=credentials)
 # ===================== Configurações =====================
 export_url = "https://services.contaazul.com/finance-pro-reports/v1/financial-statement-view/export"
 headers = {
-    'x-authorization': '00e3b816-f844-49ee-a75e-3da30f1c2630',
+    'x-authorization': '09bf1ec2-e439-463c-9940-51b0aab3f6a6',
     'Content-Type': 'application/json',
     'User-Agent': 'Mozilla/5.0'
 }
